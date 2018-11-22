@@ -24,8 +24,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 
-//$config['base_url'] = 'http://dev.ciadmin.com/';
-$config['base_url'] = 'http://cebuboss.online/ciadmin/';
+$config['base_url'] = 'http://dev.cebuback.com/';
+//$config['base_url'] = 'http://cebuboss.online/ciadmin/';
 
 /*
 |--------------------------------------------------------------------------
