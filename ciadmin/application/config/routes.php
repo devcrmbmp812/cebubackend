@@ -62,3 +62,8 @@ $route['adminlte/(:any)'] = 'admin/adminlte/$1';
 
 $route['404_override'] = '';
 $route['translate_uri_dashes'] = FALSE;
+
+/**
+ * Rest API route configuration
+ */
+//$route['api/auth/login'] = 'api/auth/login';
