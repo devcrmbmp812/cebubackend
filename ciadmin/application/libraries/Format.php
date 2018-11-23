@@ -1,6 +1,4 @@
 <?php
-// Note, this cannot be namespaced for the time being due to how CI works
-//namespace Restserver\Libraries;
 
 defined('BASEPATH') OR exit('No direct script access allowed');
 
@@ -463,8 +461,8 @@ class Format {
     // INTERNAL FUNCTIONS
 
     /**
-     * @param string $data XML string
-     * @return array XML element object; otherwise, empty array
+     * @param $data XML string
+     * @return SimpleXMLElement XML element object; otherwise, empty array
      */
     protected function _from_xml($data)
     {
@@ -498,7 +496,7 @@ class Format {
     }
 
     /**
-     * @param string $data Encoded json string
+     * @param $data Encoded json string
      * @return mixed Decoded json string with leading and trailing whitespace removed
      */
     protected function _from_json($data)
@@ -507,7 +505,7 @@ class Format {
     }
 
     /**
-     * @param string $data Data to unserialize
+     * @param string Data to unserialized
      * @return mixed Unserialized data
      */
     protected function _from_serialize($data)
@@ -516,11 +514,12 @@ class Format {
     }
 
     /**
-     * @param string $data Data to trim leading and trailing whitespace
+     * @param $data Data to trim leading and trailing whitespace
      * @return string Data with leading and trailing whitespace removed
      */
     protected function _from_php($data)
     {
         return trim($data);
     }
+
 }

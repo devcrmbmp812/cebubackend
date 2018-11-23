@@ -37,7 +37,7 @@ $config['base_url'] = 'http://dev.cebuback.com/';
 | variable so that it is blank.
 |
 */
-$config['index_page'] = '';
+$config['index_page'] = 'index.php';
 
 /*
 |--------------------------------------------------------------------------
@@ -102,7 +102,7 @@ $config['charset'] = 'UTF-8';
 | setting this variable to TRUE (boolean).  See the user guide for details.
 |
 */
-$config['enable_hooks'] = FALSE;
+$config['enable_hooks'] = TRUE;
 
 /*
 |--------------------------------------------------------------------------
@@ -160,7 +160,7 @@ $config['composer_autoload'] = FALSE;
 | DO NOT CHANGE THIS UNLESS YOU FULLY UNDERSTAND THE REPERCUSSIONS!!
 |
 */
-$config['permitted_uri_chars'] = 'a-z 0-9~%.:_\-@\=';
+$config['permitted_uri_chars'] = 'a-z 0-9~%.:_\-';
 
 /*
 |--------------------------------------------------------------------------
@@ -225,7 +225,7 @@ $config['allow_get_array'] = TRUE;
 | your log files will fill up very fast.
 |
 */
-$config['log_threshold'] = 1;
+$config['log_threshold'] = 0;
 
 /*
 |--------------------------------------------------------------------------
@@ -416,8 +416,13 @@ $config['cookie_httponly'] 	= FALSE;
 | Determines whether to standardize newline characters in input data,
 | meaning to replace \r\n, \r, \n occurrences with the PHP_EOL value.
 |
+<<<<<<< HEAD
+| This is particularly useful for portability between UNIX-based OSes,
+| (usually \n) and Windows (\r\n).
+=======
 | WARNING: This feature is DEPRECATED and currently available only
 |          for backwards compatibility purposes!
+>>>>>>> e76217041ddcae80f11b50b44a7d409b6722ad40
 |
 */
 $config['standardize_newlines'] = FALSE;
@@ -450,7 +455,7 @@ $config['global_xss_filtering'] = FALSE;
 | 'csrf_regenerate' = Regenerate token on every submission
 | 'csrf_exclude_uris' = Array of URIs which ignore CSRF checks
 */
-$config['csrf_protection'] = TRUE;
+$config['csrf_protection'] = FALSE;
 $config['csrf_token_name'] = 'csrf_test_name';
 $config['csrf_cookie_name'] = 'csrf_cookie_name';
 $config['csrf_expire'] = 7200;
