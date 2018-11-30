@@ -22,14 +22,14 @@ class Auth extends REST_Controller
     public function __construct()
     {
         parent::__construct();
-        $this->load->model('admin/user_model', 'user_model');
+        $this->load->model('api/user_model', 'user_model');
     }
 
     /**
      * URL: http://localhost/CodeIgniter-JWT-Sample/auth/token
      * Method: GET
      */
-    public function user_post()
+    public function userRegister_post()
     {
         $data = array(
             'email' => $this->input->post('username'),
@@ -53,6 +53,29 @@ class Auth extends REST_Controller
         }
         else {
             $output['message'] = "DB Write error!";
+            $this->set_response($output, REST_Controller::HTTP_INTERNAL_SERVER_ERROR);
+        }
+    }
+
+    public function userLogin_post()
+    {
+        $data = array(
+            'email' => $this->input->post('username'),
+            'password' => $this->input->post('password')
+            );
+        $result = $this->user_model->login($data);
+        $tokenData = array();
+        if($result == TRUE){
+            $tokenData['id'] =  $result['id'];
+            $token = AUTHORIZATION::generateToken($tokenData);
+            $output['token']['token'] = $token;
+            $output['token']['id'] = $result['id'];
+            $output['message'] = '';
+
+            $this->set_response($output, REST_Controller::HTTP_OK);
+        }
+        else {
+            $output['message'] = "Invalid Email or Password";
             $this->set_response($output, REST_Controller::HTTP_INTERNAL_SERVER_ERROR);
         }
     }
