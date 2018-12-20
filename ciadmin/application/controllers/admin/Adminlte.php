@@ -11,7 +11,7 @@
 		public function boxed(){
 			$this->load->view('admin/adminlte/layout/boxed');
 		}
-		public function fixed(){
+		public function fixed(){ 
 			$this->load->view('admin/adminlte/layout/fixed');
 		}
 		public function collapsed_sidebar(){
