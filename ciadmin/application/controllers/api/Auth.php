@@ -51,8 +51,9 @@ class Auth extends REST_Controller
             'password' => $this->input->post('password')
             );
         $result = $this->user_model->login($data);
+        //var_dump($result);exit;
         $tokenData = array();
-        if($result == TRUE){
+        if($result){
             $tokenData['id'] =  $result['id'];
             $token = AUTHORIZATION::generateToken($tokenData);
             $output['token']['token'] = $token;
@@ -85,8 +86,9 @@ class Auth extends REST_Controller
     public function logout_delete()
     {   
         $headers = $this->input->request_headers();
-
+        
         if (array_key_exists('Authorization', $headers) && !empty($headers['Authorization'])) {
+            //var_dump($headers);exit;
             $decodedToken = AUTHORIZATION::validateToken($headers['Authorization']);
             if ($decodedToken != false) {
                 $this->set_response($decodedToken, REST_Controller::HTTP_OK);

@@ -1,0 +1,1365 @@
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [cache-control] => no-cache
+    [Postman-Token] => 1c417d8d-152e-4ae6-a284-b961f2aac542
+    [User-Agent] => PostmanRuntime/7.4.0
+    [Accept] => */*
+    [Host] => 192.168.10.109
+    [cookie] => PHPSESSID=c78i3u7lleolq1df5rk6ejrcpl
+    [accept-encoding] => gzip, deflate
+    [content-type] => multipart/form-data; boundary=--------------------------077670634020252224154534
+    [content-length] => 0
+    [Connection] => keep-alive
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [cache-control] => no-cache
+    [Postman-Token] => 3f611919-4aa0-464f-a88c-becb0cfecb9d
+    [User-Agent] => PostmanRuntime/7.4.0
+    [Accept] => */*
+    [Host] => 192.168.10.109
+    [cookie] => PHPSESSID=c78i3u7lleolq1df5rk6ejrcpl
+    [accept-encoding] => gzip, deflate
+    [content-type] => multipart/form-data; boundary=--------------------------364073904203413439743387
+    [content-length] => 0
+    [Connection] => keep-alive
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [cache-control] => no-cache
+    [Postman-Token] => e841f208-7ad1-48f8-9e4c-6e0fd6ea8d3f
+    [User-Agent] => PostmanRuntime/7.4.0
+    [Accept] => */*
+    [Host] => 192.168.10.109
+    [cookie] => PHPSESSID=c78i3u7lleolq1df5rk6ejrcpl
+    [accept-encoding] => gzip, deflate
+    [content-type] => multipart/form-data; boundary=--------------------------946643543789551065027331
+    [content-length] => 0
+    [Connection] => keep-alive
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=i4c7gvfhbcoiie3o3ul9qatmic
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=i4c7gvfhbcoiie3o3ul9qatmic
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=i4c7gvfhbcoiie3o3ul9qatmic
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=i4c7gvfhbcoiie3o3ul9qatmic
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [cache-control] => no-cache
+    [Postman-Token] => ae4bd815-fda3-42ef-ab5f-feae1b536581
+    [User-Agent] => PostmanRuntime/7.4.0
+    [Accept] => */*
+    [Host] => 192.168.10.109
+    [cookie] => PHPSESSID=c78i3u7lleolq1df5rk6ejrcpl
+    [accept-encoding] => gzip, deflate
+    [content-type] => multipart/form-data; boundary=--------------------------582499389335556208647882
+    [content-length] => 0
+    [Connection] => keep-alive
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=i4c7gvfhbcoiie3o3ul9qatmic
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=i4c7gvfhbcoiie3o3ul9qatmic
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=i4c7gvfhbcoiie3o3ul9qatmic
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=i4c7gvfhbcoiie3o3ul9qatmic
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=i4c7gvfhbcoiie3o3ul9qatmic
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=i4c7gvfhbcoiie3o3ul9qatmic
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=i4c7gvfhbcoiie3o3ul9qatmic
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=i4c7gvfhbcoiie3o3ul9qatmic
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=i4c7gvfhbcoiie3o3ul9qatmic
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=i4c7gvfhbcoiie3o3ul9qatmic
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=i4c7gvfhbcoiie3o3ul9qatmic
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=i4c7gvfhbcoiie3o3ul9qatmic
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=i4c7gvfhbcoiie3o3ul9qatmic
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=i4c7gvfhbcoiie3o3ul9qatmic
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=qvj8h46pu78jii04ncjrklou3p
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=qvj8h46pu78jii04ncjrklou3p
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=qvj8h46pu78jii04ncjrklou3p
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=qvj8h46pu78jii04ncjrklou3p
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=qvj8h46pu78jii04ncjrklou3p
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=qvj8h46pu78jii04ncjrklou3p
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=qvj8h46pu78jii04ncjrklou3p
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=qvj8h46pu78jii04ncjrklou3p
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=qvj8h46pu78jii04ncjrklou3p
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=n3f04di4o0haflnaes0j6fp172
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=mb3rimi72drh3gu5ls1mj9sck3
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=mb3rimi72drh3gu5ls1mj9sck3
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=mb3rimi72drh3gu5ls1mj9sck3
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=mb3rimi72drh3gu5ls1mj9sck3
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=mb3rimi72drh3gu5ls1mj9sck3
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=mb3rimi72drh3gu5ls1mj9sck3
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=mb3rimi72drh3gu5ls1mj9sck3
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=mb3rimi72drh3gu5ls1mj9sck3
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=mb3rimi72drh3gu5ls1mj9sck3
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=mb3rimi72drh3gu5ls1mj9sck3
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=mb3rimi72drh3gu5ls1mj9sck3
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=mb3rimi72drh3gu5ls1mj9sck3
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=mb3rimi72drh3gu5ls1mj9sck3
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=mb3rimi72drh3gu5ls1mj9sck3
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=pmhrh95k9t96g852rmlvhcukl7
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=pmhrh95k9t96g852rmlvhcukl7
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=pmhrh95k9t96g852rmlvhcukl7
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=pmhrh95k9t96g852rmlvhcukl7
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=pmhrh95k9t96g852rmlvhcukl7
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=pmhrh95k9t96g852rmlvhcukl7
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=pmhrh95k9t96g852rmlvhcukl7
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=pmhrh95k9t96g852rmlvhcukl7
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=598l8dr66fid19a1rs3kqcinbe
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=598l8dr66fid19a1rs3kqcinbe
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=598l8dr66fid19a1rs3kqcinbe
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=598l8dr66fid19a1rs3kqcinbe
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=598l8dr66fid19a1rs3kqcinbe
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=598l8dr66fid19a1rs3kqcinbe
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=598l8dr66fid19a1rs3kqcinbe
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=598l8dr66fid19a1rs3kqcinbe
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=598l8dr66fid19a1rs3kqcinbe
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=598l8dr66fid19a1rs3kqcinbe
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjcyOSJ9.6TdG0aaQXbkAJZskWs5Qbk9aPfCACmEFRh3ly4aoQTM
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [Cookie] => PHPSESSID=598l8dr66fid19a1rs3kqcinbe
+    [User-Agent] => okhttp/3.4.1
+)
+Array
+(
+    [authorization] => undefined
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => undefined
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)
+Array
+(
+    [authorization] => temp_token
+    [Host] => 192.168.10.109
+    [Connection] => Keep-Alive
+    [Accept-Encoding] => gzip
+    [User-Agent] => okhttp/3.11.0
+)

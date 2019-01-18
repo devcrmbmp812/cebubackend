@@ -2,13 +2,13 @@
 	class User_model extends CI_Model{
 
 		public function add_user($data){
-			$this->db->insert('ci_users', $data);
+			$this->db->insert('agents', $data);
 			$insert_id = $this->db->insert_id();
 			return $insert_id;
 		}
 
 		public function login($data){
-			$query = $this->db->get_where('ci_users', array('email' => $data['email']));
+			$query = $this->db->get_where('agents', array('email' => $data['email']));
 			if ($query->num_rows() == 0){
 				return false;
 			}
